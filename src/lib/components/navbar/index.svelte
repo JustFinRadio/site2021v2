@@ -7,7 +7,7 @@
     { text: "About Us", link: "/about" },
     { text: "Our Work", link: "/work" },
     { text: "Contact", link: "/contact" },
-    { text: "Raft", link: "https://raft.despitethemonkey.co.uk" },
+    { text: "Claywell Digital", link: "https://claywelldigital.com" },
   ];
 
   function toggleMenu() {

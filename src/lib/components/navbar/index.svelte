@@ -7,7 +7,8 @@
     { text: "About Us", link: "/about" },
     { text: "Our Work", link: "/work" },
     { text: "Contact", link: "/contact" },
-    { text: "Claywell Digital", link: "https://claywelldigital.com" },
+    { text: "Services", link: "/about/services" },
+    { text: "Claywell Digital", link: "https://claywelldigital.com" }
   ];
 
   function toggleMenu() {
